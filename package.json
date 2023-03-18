@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "web3modal": "^1.9.12"
+  }
+}
+
+
